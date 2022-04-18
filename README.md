@@ -17,3 +17,7 @@
 
 ### Resultado do Projeto em execução
 ![alt text](https://raw.githubusercontent.com/katianne23/Api_Git_hub_Dio/master/imagem/Api.jpg)
+
+### Acessar pagina funcionando
+* [Acesse](https://earnest-pie-f67193.netlify.app/)
+
